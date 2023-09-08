@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ee4b1f3028765e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3169f99b10dc00b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7378d4a2ea840cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础/抓包及代码定位.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99a102a8e6295440",
+    "type": "split",
+    "children": [
+      {
+        "id": "d744860493cc3b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e36772731eb579a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b3626104ff971cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fad860d5146f28d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "756147b9d1df7402",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1614d9757dd9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3101a597a40333c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基础/抓包及代码定位.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecc96c1cd9a44850",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基础/抓包及代码定位.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee86ce70fb650745",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4c17a5f25c16974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基础/抓包及代码定位.md"
+              }
+            }
+          },
+          {
+            "id": "8e1bc5b3e4722406",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7378d4a2ea840cd9",
+  "lastOpenFiles": [
+    "基础/环境配置.md",
+    "基础/img/Pasted image 20230907164942.png",
+    "基础/img/Pasted image 20230907164817.png",
+    "基础/抓包及代码定位.md",
+    "基础/img/Pasted image 20230908085941.png",
+    "基础/img",
+    "未命名.md",
+    "基础/逆向扫盲.md",
+    "基础",
+    "未命名.canvas",
+    "Pasted image 20230906131857.png",
+    "Pasted image 20230906131729.png"
+  ]
+}
